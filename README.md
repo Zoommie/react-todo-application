@@ -10,7 +10,7 @@ Download or clone
 
 Run npm install in your terminal
 
-Do a npm run build && npm start 
+Run npm start 
 
 ### CONTACT INFORMATION:
 email: zung@zungdinh.com
